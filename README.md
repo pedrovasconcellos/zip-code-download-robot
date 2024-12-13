@@ -1,8 +1,8 @@
-# ZipeCode Robot [net7.0]
-Designed to retrieve Brazilian ZipeCode data and store it in a MongoDB database. This powerful tool has been created using C# .NET.
+# ZipCode Robot [net7.0]
+Designed to retrieve Brazilian ZipCode data and store it in a MongoDB database. This powerful tool has been created using C# .NET.
 
 
-### Load the ceps that are in the [zipe-code-numbers.csv] for the ZipeCodeNumber Collection MongoDB
+### Load the ceps that are in the [zip-code-numbers.csv] for the ZipCodeNumber Collection MongoDB
 ##### Data format when loading into the collection
 ```json
 {
